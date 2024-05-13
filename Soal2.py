@@ -10,4 +10,4 @@ buku = False
 L = True
 P = True
 
-print("Soal A:",piknik_or_buku(piknik,buku),"\n","Soal B:",dosen_informatika(L,P))
+print(f"Soal A: {piknik_or_buku(piknik,buku)}\nSoal B: {dosen_informatika(L,P)}")
